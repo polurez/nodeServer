@@ -1,0 +1,8 @@
+{
+    "bot":{
+        "bot_token":"xoxb-207139310817-esX8o5OMmSqIpAcZ9yF79AuF",
+        "bot_id":"B634394LR",
+        "bot_name":"testbot"
+    },
+    "url":"mongodb://localhost:27017/messages"
+}

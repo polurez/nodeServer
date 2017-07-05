@@ -1,0 +1,8 @@
+{
+  "name": "nodeServer",
+  "version": "1.0.0",
+  "dependencies": {
+    "mongodb": "^2.2.29",
+    "slackbots": "^1.0.2"
+  }
+}
